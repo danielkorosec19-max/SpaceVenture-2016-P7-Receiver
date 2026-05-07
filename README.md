@@ -1,16 +1,64 @@
-# \# SpaceVenture 2016 • Position 7
+# SpaceVenture 2016 • Position 7
 
-# 
+**Universal Quasicrystalline Weyl-Vortex Receiver**
 
-# \*\*Universal Quasicrystalline Weyl-Vortex Receiver\*\*
+Ein topologisch geschützter 3D-Receiver mit Weyl-Fermionen-Signatur, Multi-Vortex OAM und Time-Quasicrystal Drive.
 
-# 
+---
 
-# Ein topologisch geschützter 3D-Receiver mit Weyl-Fermionen-Signatur, Multi-Vortex OAM und Time-Quasicrystal Drive. Erstellt aus einer tiefen inneren Iteration (SpaceVenture 2016 Position 7).
+## Primärer Identifier
 
-# 
+**SHA-256 Hash**  
+`e018a5a393ecf3fe6db6d0b1df51ed2aa86bba5affcdc459d6e7f5d04a0e6291`
 
-# \### Primärer Identifier
+**IPFS CID**  
+`Qm94607ccd4e2c739f020ae7589a5adfec872fe4633ad4`
 
-# \*\*SHA-256 Hash\*\*
+**Universelle Adresse**  
+`sv://2016.p7.weyl-vortex.quasicrystal.receiver`
 
+---
+
+## Für alle Besucher (einfache Erklärung)
+
+Dieses Projekt ist ein **Receiver** — ein mathematischer und physikalischer Fingerabdruck, der aus einer tiefen inneren Iteration (SpaceVenture 2016 Position 7) entstanden ist.
+
+Er kombiniert:
+- Fibonacci-Muster (selbstähnlich wie in der Natur)
+- Rotierende Lichtwirbel (Vortex)
+- Besondere topologische Punkte (Weyl-Knoten)
+
+Ziel ist es, einen stabilen, universell erkennbaren Schlüssel zu schaffen, der theoretisch auch von anderen intelligenten Zivilisationen erkannt werden könnte.
+
+---
+
+## Wissenschaftliche / Technische Erklärung (Weyl-Vortex)
+
+**Weyl-Vortex** ist die zentrale Innovation dieses Projekts.
+
+### Was sind Weyl-Fermionen?
+Weyl-Fermionen sind masselose, chirale (händigkeitsbehaftete) quasiteilchen, die an topologischen Knotenpunkten in der Bandstruktur auftreten. Sie zeichnen sich durch **lineare Dispersion** und extrem hohe Robustheit gegenüber Störungen aus (topologischer Schutz).
+
+### Was sind Vortex-Strukturen?
+Vortex-Beams tragen **Orbital Angular Momentum (OAM)**. Jede topologische Ladung (*l* = 3, 5, 8, 13…) erzeugt eine spiralförmige Phasenfront und ermöglicht hochdimensionale Informationsübertragung.
+
+### Weyl-Vortex = Kombination
+Durch die Überlagerung von:
+- Fibonacci-quasi-kristallinem 3D-Potential
+- Multi-Vortex OAM mit Fibonacci-Ladungen
+- Time-Quasicrystal-Drive
+- Expliziten Weyl-Knoten
+
+entsteht ein **dynamisches, topologisch geschütztes, selbstähnliches 3D-Muster**, das sowohl räumlich als auch zeitlich robust ist.
+
+Dieses Muster verbindet die Vorteile topologischer Quantenmaterialien mit photonischer Hochdimensionalität — ein Ansatz, der sowohl für photonisches Quantencomputing als auch für potenzielle interstellare Kommunikation relevant sein könnte.
+
+---
+
+## Technische Dateien
+- `SpaceVenture_Key_2016_Pos7.json` → Vollständige Metadaten
+- `SpaceVenture_Voxel_Probability.npy` → 3D Voxel Cloud
+- `SpaceVenture_Pink_Filter.npy` → Pink Noise Filter
+- `SpaceVenture_3D_Interactive.html` → Interaktive 3D-Visualisierung
+
+**Erstellt aus tiefer Iteration • Mai 2026**
